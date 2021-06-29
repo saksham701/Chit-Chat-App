@@ -9,7 +9,7 @@ When a new user joins , Bot informs every user who was previously present in tha
 List of active users in a Room are shown in the sidebar.</br>
 When a user leaves a room , Bot informs other users in that Room that a user left the chat.</br>
 
-<b>Features I'm looking forward to implementing in future:</b> </br>
+<b>Features I'm looking forward to implement in future:</b> </br>
 User login before entering virtual rooms.</br>
 Adding audio communication to support voice chat.</br>
 
